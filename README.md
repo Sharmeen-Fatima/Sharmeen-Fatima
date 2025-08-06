@@ -10,7 +10,7 @@
 - 🌱 Currently diving deeper into **Python**, **AI Agents**, and **open-source Web Projects**
 - 💻 Experienced with **HTML**, **CSS**, **JavaScript**, and building real-world apps
 - 🤝 Always open to collaborate on **AI + Web integration**, **frontend innovation**, or **portfolio projects**
-- 📫 Feel free to reach out: **✉️ (your email here)**
+- 📫 Feel free to reach out: **✉️ (Sharmeenfatima67@gmail.com)**
 
 ---
 
