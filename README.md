@@ -1,16 +1,44 @@
-## Hi there 👋
+<!-- Optional: Banner Image -->
+<!-- ![banner](https://your-image-link.com/banner.png) -->
 
-<!--
-**Sharmeen-Fatima/Sharmeen-Fatima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Sharmeen Fatima</h1>
+<p align="center">Web Developer exploring AI, living in Karachi, Pakistan</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- 🌱 Currently diving deeper into **Python**, **AI Agents**, and **open-source Web Projects**
+- 💻 Experienced with **HTML**, **CSS**, **JavaScript**, and building real-world apps
+- 🤝 Always open to collaborate on **AI + Web integration**, **frontend innovation**, or **portfolio projects**
+- 📫 Feel free to reach out: **✉️ (your email here)**
+
+---
+
+### 🔧 Tech Stack & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,react,git" alt="skills" />
+</p>
+
+---
+
+### 🧩 Featured Projects
+
+| Project | Description | Link |
+|--------|-------------|------|
+| **Dream-House** | Complete responsive website built with HTML & CSS | [GitHub Repo](https://github.com/Sharmeen-Fatima/Dream-House) |
+| **Internnship-Internncraft** | Internship HTML/CSS project | [GitHub Repo](https://github.com/Sharmeen-Fatima/Internnship-Internncraft) |
+
+---
+
+### 📱 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharmeen-fatima-b1268827a)  
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100093096264475)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/creative_coder_official/)
+
+---
+
+### 📊 GitHub Stats
+
+![Sharmeen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sharmeen-Fatima&show_icons=true&theme=tokyonight)
