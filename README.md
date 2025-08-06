@@ -2,12 +2,12 @@
 <!-- ![banner](https://your-image-link.com/banner.png) -->
 
 <h1 align="center">Hi 👋, I'm Sharmeen Fatima</h1>
-<p align="center">Web Developer exploring AI, living in Karachi, Pakistan</p>
+<p align="center">Web Developer exploring AI Agentic SDK, living in Karachi, Pakistan</p>
 
 ---
 
 ### 🚀 About Me
-- 🌱 Currently diving deeper into **Python**, **AI Agents**, and **open-source Web Projects**
+- 🌱 Currently diving deeper into **Python**, **AI Agent**, and **open-source Web Projects**
 - 💻 Experienced with **HTML**, **CSS**, **JavaScript**, and building real-world apps
 - 🤝 Always open to collaborate on **AI + Web integration**, **frontend innovation**, or **portfolio projects**
 - 📫 Feel free to reach out: **✉️ (Sharmeenfatima67@gmail.com)**
