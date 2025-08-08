@@ -1,7 +1,7 @@
 <!-- Optional: Banner Image -->
 <!-- ![banner](https://your-image-link.com/banner.png) -->
 <p align="center">
-  <img src="github-profile.png" width="100%" height="50%" style="border-radius:"50%;" />
+  <img src="github-profile.png" width="100%" height="20%" style="border-radius:"50%;" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Sharmeen Fatima</h1>
