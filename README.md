@@ -1,5 +1,8 @@
 <!-- Optional: Banner Image -->
 <!-- ![banner](https://your-image-link.com/banner.png) -->
+<p align="center">
+  <img src="profile.png" width="200" style="border-radius: 50%;" />
+</p>
 
 <h1 align="center">Hi 👋, I'm Sharmeen Fatima</h1>
 <p align="center">Web Developer exploring AI Agentic SDK, living in Karachi, Pakistan</p>
