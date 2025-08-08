@@ -26,8 +26,9 @@
 
 | Project | Description | Link |
 |--------|-------------|------|
-| **Dream-House** | Complete responsive website built with HTML & CSS | [GitHub Repo](https://github.com/Sharmeen-Fatima/Dream-House) |
-| **Internnship-Internncraft** | Internship HTML/CSS project | [GitHub Repo](https://github.com/Sharmeen-Fatima/Internnship-Internncraft) |
+| **Dream-House** | Complete responsive website built with HTML & CSS | [Dream_House](https://github.com/Sharmeen-Fatima/Dream-House) |
+| **Internnship-Internncraft** | Internship HTML/CSS project | [Internnship_Internncraft](https://github.com/Sharmeen-Fatima/Internnship-Internncraft) |
+| **Fatima_Ai_Assistant** | OWN Ai Assistant | [Fatima_Ai_Assistant](https://github.com/Sharmeen-Fatima/Fatima_Ai_Assistant.git)) |
 
 ---
 
