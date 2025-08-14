@@ -10,11 +10,11 @@
 ---
 
 ### 🚀 About Me
-- 🌱 Currently diving deeper into **Python**, **AI Agent**, and **open-source Web Projects**
-- 💻 Experienced with **HTML**, **CSS**, **JavaScript**, and building real-world apps
-- 🤝 Always open to collaborate on **AI + Web integration**, **frontend innovation**, or **portfolio projects**
-- 📫 Feel free to reach out: **✉️ (Sharmeenfatima67@gmail.com)**
-- ✒ For more information about Agentic Ai and updates Join **Whatsapp Channel** **(https://whatsapp.com/channel/0029VbAqY7w002TIRJYUHG3X)**
+- 🌱 Currently diving deeper into **Python**, **AI Agent**, and **open-source Web Projects.**
+- 💻 Experienced with **HTML**, **CSS**, **JavaScript**, and building real-world apps.
+- 🤝 Always open to collaborate on **AI + Web integration**, **frontend innovation**, or **portfolio projects.**
+- 📫 Feel free to reach out: **✉️ (Sharmeenfatima67@gmail.com).**
+- ✒ For more information about Agentic Ai and updates Join **Whatsapp Channel** **(https://whatsapp.com/channel/0029VbAqY7w002TIRJYUHG3X).**
 
 ---
 
