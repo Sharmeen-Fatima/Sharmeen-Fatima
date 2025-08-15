@@ -6,7 +6,7 @@
 
 <h1 align="center">Hi 👋, I'm Sharmeen Fatima</h1>
 <p align="center">Web Developer exploring AI Agentic SDK, living in Karachi, Pakistan</p>
-
+<p align="center">Inshallah in Future **"Artificial intelligence & Robotics Scientists"**</p>
 ---
 
 ### 🚀 About Me
