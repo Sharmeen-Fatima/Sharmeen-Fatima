@@ -1,5 +1,4 @@
-<!-- Optional: Banner Image -->
-<!-- ![banner](https://your-image-link.com/banner.png) -->
+
 <p align="center">
   <img src="github-profile.png" width="90%" height="20%" style="border-radius:"50%;" />
 </p>
