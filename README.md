@@ -4,10 +4,11 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Sharmeen Fatima</h1>
-<p align="center">Web Developer exploring AI Agentic SDK, living in Karachi, Pakistan
-<p align="center">Inshallah in Future "Artificial Intelligence & Robotics Scientists"
----
 
+###### <p align="center">Web Developer exploring AI Agentic SDK, living in Karachi, Pakistan.</p>
+<p align="center">Inshallah in Future "Artificial Intelligence & Robotics Scientists"</p>
+
+---
 ### 🚀 About Me
 - 🌱 Currently diving deeper into **Python**, **AI Agent**, and **open-source Web Projects.**
 - 💻 Experienced with **HTML**, **CSS**, **JavaScript**, and building real-world apps.
