@@ -53,7 +53,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sharmeen-Fatima&layout=compact&theme=dark)
 
 ---
-[![trophy](https://github-profile-trophy.vercel.app/?username=Sharmeen-Fatima&theme=dark)](https://github.com/Sharmeen-Fatima)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Sharmeen-Fatima&theme=dark)](https://github.com/Sharmeen-Fatima&theme=dark)
 
 
 
