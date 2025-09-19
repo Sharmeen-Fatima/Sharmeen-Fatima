@@ -50,7 +50,7 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sharmeen-Fatima&layout=compact&theme=dark)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sharmeen-Fatima&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=Sharmeen-Fatima&theme=dark)
 
 ## 📈 GitHub Contribution Graph
 
