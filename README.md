@@ -46,11 +46,11 @@
 
 ### 📊 GitHub Stats
 
-![Sharmeen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sharmeen-Fatima&show_icons=true&theme=tokyonight)
+![Sharmeen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sharmeen-Fatima&show_icons=true&theme=tokyionght)
 
 ## 📈 GitHub Contribution Graph
 
 ![snake gif](https://camo.githubusercontent.com/14a646a2ab516c4af8961aa726117a10597be3f0e8d2711d716217fd544a2bd5/68747470733a2f2f70726f66696c652d726561646d652d67656e657261746f722e636f6d2f6173736574732f736e616b652e737667)
 
 ---
-***“Learning never stops — stay curious, stay creative!”***
+#### ***“Learning never stops — stay curious, stay creative!”***
