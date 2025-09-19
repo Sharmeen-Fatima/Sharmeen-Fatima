@@ -53,9 +53,8 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sharmeen-Fatima&layout=compact&theme=dark)
 
 ---
+### 📊 GitHub Trophy.
 [![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Sharmeen-Fatima&theme=dark)](https://github.com/Sharmeen-Fatima)
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Sharmeen-Fatima&theme=react-dark)
 
 ---
 ## 📈 GitHub Contribution Graph
