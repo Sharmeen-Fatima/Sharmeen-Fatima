@@ -3,10 +3,10 @@
   <img src="github-profile.png" width="90%" height="20%" style="border-radius:"50%;" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Sharmeen Fatima</h1>
+#### <h1 align="center">Hi 👋, I'm Sharmeen Fatima</h1>
 
 ###### <p align="center">Web Developer exploring AI Agentic SDK, living in Karachi, Pakistan.</p>
-<p align="center">Inshallah in Future "Artificial Intelligence & Robotics Scientists"</p>
+###### <p align="center">Inshallah in Future "Artificial Intelligence & Robotics Scientists"</p>
 
 ---
 ### 🚀 About Me
