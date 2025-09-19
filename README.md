@@ -46,7 +46,7 @@
 
 ### 📊 GitHub Stats
 
-![Sharmeen Fatima GitHub Stats](https://github-readme-stats.vercel.app/api?username=SharmeenFatima&show_icons=true&theme=tokyonight)
+![Sharmeen Fatima's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SharmeenFatima&show_icons=true&count_private=true&include_all_commits=true&theme=dark)
 
 
 ## 📈 GitHub Contribution Graph
