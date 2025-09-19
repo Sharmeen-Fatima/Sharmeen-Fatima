@@ -57,11 +57,6 @@
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Sharmeen-Fatima&theme=react-dark)
 
-![GitHub Repo Stats](https://github-readme-stats.vercel.app/api?username=Sharmeen-Fatima&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sharmeen-Fatima&layout=compact&theme=dark)
-
-
 ---
 ## 📈 GitHub Contribution Graph
 
