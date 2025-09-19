@@ -44,13 +44,14 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Sharmeen Fatima "GitHub Stats"
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sharmeen-Fatima&show_icons=true&include_all_commits=true&count_private=true&theme=dark)
 
+---
+### 📊 Sharmeen Fatima "Top Languages"
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sharmeen-Fatima&layout=compact&theme=dark)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Sharmeen-Fatima&theme=dark)
 
 ## 📈 GitHub Contribution Graph
 
