@@ -1,3 +1,4 @@
+![Sharmeen Fatima's GitHub Profile Views](https://komarev.com/ghpvc/?username=Sharmeen-Fatima)
 
 <p align="center">
   <img src="github-profile.png" width="90%" height="20%" style="border-radius:"50%;" />
