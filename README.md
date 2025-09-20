@@ -9,9 +9,8 @@
 
 ---
 ### 🚀 About Me
-<p align="center">
-  ![Sharmeen Fatima's GitHub Profile Views](https://komarev.com/ghpvc/?username=Sharmeen-Fatima&color=purple)
-</p>
+
+![Sharmeen Fatima's GitHub Profile Views](https://komarev.com/ghpvc/?username=Sharmeen-Fatima&color=%238070C0)
 
 - 🌱 Currently diving deeper into **Python**, **AI Agent**, and **open-source Web Projects.**
 - 💻 Experienced with **HTML**, **CSS**, **JavaScript**, and building real-world apps.
