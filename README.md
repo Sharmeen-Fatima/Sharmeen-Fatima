@@ -9,7 +9,7 @@
 
 ---
 ### 🚀 About Me
-<p align="center">
+<p>
   
 ![Sharmeen Fatima's GitHub Profile Views](https://komarev.com/ghpvc/?username=Sharmeen-Fatima&color=%238070C0)
 </p>
