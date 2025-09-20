@@ -1,7 +1,3 @@
-<div align="center">
-![Sharmeen Fatima's GitHub Profile Views](https://komarev.com/ghpvc/?username=Sharmeen-Fatima&color=purple)
-</div>
-
 <p align="center">
   <img src="github-profile.png" width="90%" height="20%" style="border-radius:"50%;" />
 </p>
@@ -13,6 +9,9 @@
 
 ---
 ### 🚀 About Me
+<p align="center">
+  ![Sharmeen Fatima's GitHub Profile Views](https://komarev.com/ghpvc/?username=Sharmeen-Fatima&color=purple)
+</p>
 - 🌱 Currently diving deeper into **Python**, **AI Agent**, and **open-source Web Projects.**
 - 💻 Experienced with **HTML**, **CSS**, **JavaScript**, and building real-world apps.
 - 🤝 Always open to collaborate on **AI + Web integration**, **frontend innovation**, or **portfolio projects.**
