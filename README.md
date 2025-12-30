@@ -4,7 +4,8 @@
 
 #### <h1 align="center">Hi 👋, I'm Sharmeen Fatima</h1>
 
-###### <p align="center">Web Developer exploring AI Agentic SDK, living in Karachi, Pakistan.</p>
+###### <p align="center">AI Native </p>
+###### <p align="center">I'm Exploring Ai-Driven-Development </p>
 ###### <p align="center">Inshallah in Future "Artificial Intelligence & Robotics Scientists"</p>
 
 ---
