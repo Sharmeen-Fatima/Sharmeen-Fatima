@@ -48,25 +48,31 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100093096264475)  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/creative_coder_official/)
 
+## Hi, I'm Sharmeen Fatima 👋
+
 ---
 
 ### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sharmeen-Fatima)
-
----
-### 📊 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sharmeen-Fatima&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sharmeen-Fatima&show_icons=true&include_all_commits=true&count_private=true&theme=dark&cache_seconds=1800)
 
 ---
-### 📊 GitHub Trophy.
-[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Sharmeen-Fatima&theme=dark)](https://github.com/Sharmeen-Fatima)
+
+### 💻 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sharmeen-Fatima&layout=compact&theme=dark&cache_seconds=1800)
 
 ---
-## 📈 GitHub Contribution Graph
 
+### 🏆 GitHub Trophies
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Sharmeen-Fatima&theme=dark&no-frame=true&margin-w=10)
+
+---
+
+### 📈 GitHub Contribution Graph
 ![GitHub Contribution Snake](https://github.com/Sharmeen-Fatima/Sharmeen-Fatima/blob/output/github-contribution-grid-snake.svg)
 
+---
+
+✨ *Learning never stops — stay curious, stay creative.*
 
 ---
 ### ***“Learning never stops — stay curious, stay creative!”***
