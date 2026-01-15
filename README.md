@@ -65,7 +65,8 @@
 ---
 ## 📈 GitHub Contribution Graph
 
-![snake gif](https://camo.githubusercontent.com/14a646a2ab516c4af8961aa726117a10597be3f0e8d2711d716217fd544a2bd5/68747470733a2f2f70726f66696c652d726561646d652d67656e657261746f722e636f6d2f6173736574732f736e616b652e737667)
+![GitHub Contribution Snake](https://github.com/Sharmeen-Fatima/Sharmeen-Fatima/blob/output/github-contribution-grid-snake.svg)
+
 
 ---
 ### ***“Learning never stops — stay curious, stay creative!”***
