@@ -65,9 +65,8 @@
 ---
 ## 📈 GitHub Contribution Graph
 
-## 🐍 GitHub Contribution Snake
+![snake gif](https://raw.githubusercontent.com/Sharmeen-Fatima/Sharmeen-Fatima/output/github-contribution-grid-snake.svg)
 
-![snake gif](https://github.com/Sharmeen-Fatima/Sharmeen-Fatima/blob/output/github-contribution-grid-snake.svg)
 
 
 ---
