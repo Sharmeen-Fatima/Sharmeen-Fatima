@@ -67,6 +67,19 @@
 
 ![snake gif](https://raw.githubusercontent.com/Sharmeen-Fatima/Sharmeen-Fatima/output/github-contribution-grid-snake.svg)
 
+---
+
+1. ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sharmeen-Fatima&show_icons=true&theme=radical)
+2. ![GitHub Streak](https://streak-stats.demolab.com?user=Sharmeen-Fatima&theme=radical)
+3. ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sharmeen-Fatima&theme=react-dark)
+4. [![Trophy](https://github-profile-trophy.vercel.app/?username=Sharmeen-Fatima&theme=onedark&margin-w=10)](https://github.com/Sharmeen-Fatima)
+5. ### 💻 Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![AI](https://img.shields.io/badge/AI%20Agent-OpenAI-black?style=for-the-badge)
+
 
 
 ---
