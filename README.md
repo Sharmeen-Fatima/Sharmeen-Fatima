@@ -19,7 +19,7 @@
 - 💻 Experienced with **HTML**, **CSS**, **JavaScript**, and building real-world apps.
 - 🤝 Always open to collaborate on **AI + Web integration**, **frontend innovation**, or **portfolio projects.**
 - 📫 Feel free to reach out: **✉️ (Sharmeenfatima67@gmail.com).**
-- ✒ For more information about ***Agentic Ai*** and updates Join **[Whatsapp Channel](https://whatsapp.com/channel/0029VbAqY7w002TIRJYUHG3X).**
+- ✒ For more information about ***Ai & New Technologies*** for future updates Join **[Whatsapp Channel](https://whatsapp.com/channel/0029VbAqY7w002TIRJYUHG3X).**
 
 <!-- - 🎯 For more information about ***N8N in Agentic Ai*** and updates Join **[Whatsapp Channel](https://whatsapp.com/channel/0029Vb6ZMNn9WtC60YWzyh15).** -->
 
@@ -56,7 +56,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sharmeen-Fatima&show_icons=true&include_all_commits=true&count_private=true&theme=dark) -->
 
 ---
-### 📊 Top Languages
+<!--### 📊 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sharmeen-Fatima&layout=compact&theme=dark)
 
 ---
@@ -69,8 +69,14 @@
 ![snake gif](https://raw.githubusercontent.com/Sharmeen-Fatima/Sharmeen-Fatima/output/github-contribution-grid-snake.svg)
 -->
 ---
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sharmeen-Fatima&show_icons=true&theme=radical)
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=Sharmeen-Fatima&theme=radical&hide_border=true) -->
+## 📊 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sharmeen-fatima&layout=compact&theme=dark)
+
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sharmeen-fatima&show_icons=true&theme=radical)
+
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sharmeen-Fatima&show_icons=true&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=Sharmeen-Fatima&theme=radical&hide_border=true) -->
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sharmeen-Fatima&theme=react-dark)
 
