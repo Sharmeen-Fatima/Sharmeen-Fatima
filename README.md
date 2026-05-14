@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="GithubProfile.png" width="90%" height="20%" style="border-radius:"50%;" />
+  <img src="Github-Profile.png" width="90%" height="20%" style="border-radius:"50%;" />
 </p>
 
 #### <h1 align="center">Hi 👋, I'm Sharmeen Fatima</h1>
