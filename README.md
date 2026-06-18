@@ -21,7 +21,7 @@
 - 📫 Feel free to reach out: **✉️ (Sharmeenfatima67@gmail.com).**
 - ✒ For more information about ***Ai & New Technologies*** for future updates Join **[Whatsapp Channel](https://whatsapp.com/channel/0029VbAqY7w002TIRJYUHG3X).**
 
-<!-- - 🎯 For more information about ***N8N in Agentic Ai*** and updates Join **[Whatsapp Channel](https://whatsapp.com/channel/0029Vb6ZMNn9WtC60YWzyh15).** -->
+<!-- - 🎯 For more information about ***N8N in Agentic Ai*** and updates Join **[Whatsapp Channel](https://whatsapp.com/channel/0029Vb6ZMNn9WtC60YWzyh15).**        -->
 
  ---
 
