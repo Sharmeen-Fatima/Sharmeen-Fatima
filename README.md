@@ -59,9 +59,9 @@
 ### 📊 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sharmeen-Fatima&layout=compact&theme=dark)
 
----
+<!-- ---
 ### 📊 GitHub Trophy.
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Sharmeen-Fatima&theme=dark)](https://github.com/Sharmeen-Fatima)
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Sharmeen-Fatima&theme=dark)](https://github.com/Sharmeen-Fatima) -->
 
 ---
 ## 📈 GitHub Contribution Graph
@@ -80,7 +80,7 @@
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sharmeen-Fatima&theme=react-dark)
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=Sharmeen-Fatima&theme=radical&no-frame=true&margin-w=10)](https://github.com/Sharmeen-Fatima)
+<!-- ![Trophy](https://github-profile-trophy.vercel.app/?username=Sharmeen-Fatima&theme=radical&no-frame=true&margin-w=10)](https://github.com/Sharmeen-Fatima) -->
  
  5. ### 💻 Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
