@@ -37,9 +37,11 @@
 
 | Project | Description | Link |
 |--------|-------------|------|
-| **Dream-House** | Complete responsive website built with HTML & CSS | [Dream_House](https://github.com/Sharmeen-Fatima/Dream-House) |
-| **Internnship-Internncraft** | Internship HTML/CSS project | [Internnship_Internncraft](https://github.com/Sharmeen-Fatima/Internnship-Internncraft) |
+| **Physical-AI-Humanoid-Robotics-Textbook** | This project is a Docusaurus-based textbook focused on Physical AI and Humanoid Robotics. It aims to teach modern robotics concepts including ROS 2, simulation tools, and AI integration through well-organized learning material. | [Physical-AI-Humanoid-Robotics](https://physical-ai-humanoid-robotics-textb-pied.vercel.app/) |
+| **Evolution_Of_Todo_App** |Full-stack web application for multi-user task management built with Next.js and FastAPI. | [Todo_App](https://frontend-rosy-chi-18.vercel.app/) |
+| **Digital FTE** | A local-first, autonomous Personal AI Employee system that monitors Gmail, LinkedIn, WhatsApp, manages Odoo ERP, posts on Facebook, Instagram & Twitter, generates CEO weekly audit reports — all with Human-in-the-Loop approval for every critical action. | [Digital FTE](https://github.com/Sharmeen-Fatima/Personal_AI_Employee_Hackathon_0) |
 | **Fatima_Ai_Assistant** | OWN Ai Assistant | [Fatima_Ai_Assistant](https://github.com/Sharmeen-Fatima/Fatima_Ai_Assistant.git) |
+| **Dream-House** | Complete responsive website built with HTML & CSS | [Dream_House](https://github.com/Sharmeen-Fatima/Dream-House) |
 
 ---
 
