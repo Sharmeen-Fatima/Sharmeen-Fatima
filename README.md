@@ -59,9 +59,17 @@ I build intelligent AI systems, autonomous AI agents, and AI-powered solutions t
 
 ---
 
- ### 📊 GitHub Stats
+## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sharmeen-Fatima&show_icons=true&include_all_commits=true&count_private=true&theme=dark) 
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sharmeen-fatima&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharmeen-fatima&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sharmeen-fatima&theme=tokyonight&hide_border=true"/>
+</p>
+
 
 <!-- ### 📊 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sharmeen-Fatima&layout=compact&theme=dark)
