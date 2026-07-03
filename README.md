@@ -76,10 +76,12 @@ I build intelligent AI systems, autonomous AI agents, and AI-powered solutions t
 
 ---
 ## 📈 GitHub Contribution Graph
-
+<!--
 ![Snake animation](https://raw.githubusercontent.com/Sharmeen-Fatima/Sharmeen-Fatima/output/github-contribution-grid-snake.svg)
-
-
+-->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sharmeen-Fatima/Sharmeen-Fatima/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
  ---
 <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sharmeen-Fatima&show_icons=true&theme=radical)
 ![GitHub Streak](https://streak-stats.demolab.com?user=Sharmeen-Fatima&theme=radical&hide_border=true) -->
