@@ -60,7 +60,6 @@ I build intelligent AI systems, autonomous AI agents, and AI-powered solutions t
 ---
 
 ## 📊 GitHub Stats
-
 <!-- <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sharmeen-fatima&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharmeen-fatima&layout=compact&theme=tokyonight&hide_border=true"/>
@@ -73,10 +72,15 @@ I build intelligent AI systems, autonomous AI agents, and AI-powered solutions t
 
 <!-- ### 📊 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sharmeen-Fatima&layout=compact&theme=dark)
+-->
 
-<!-- ---
-### 📊 GitHub Trophy.
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Sharmeen-Fatima&theme=dark)](https://github.com/Sharmeen-Fatima)
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sharmeen-fatima&theme=tokyonight&no-frame=true&row=1&column=7"/>
+</p>
 
 ---
 ## 📈 GitHub Contribution Graph
