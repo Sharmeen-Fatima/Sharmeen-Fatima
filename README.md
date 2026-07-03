@@ -15,13 +15,19 @@
 ![Sharmeen Fatima's GitHub Profile Views](https://komarev.com/ghpvc/?username=Sharmeen-Fatima&color=%238070C0)
 </p>
 
-- 🌱 Currently diving deeper into **Python**, **AI Agent**, and **open-source Web Projects.**
-- 💻 Experienced with **HTML**, **CSS**, **JavaScript**, and building real-world apps.
-- 🤝 Always open to collaborate on **AI + Web integration**, **frontend innovation**, or **portfolio projects.**
-- 📫 Feel free to reach out: **✉️ (Sharmeenfatima67@gmail.com).**
-- ✒ For more information about ***Ai & New Technologies*** for future updates Join **[Whatsapp Channel](https://whatsapp.com/channel/0029VbAqY7w002TIRJYUHG3X).**
+I build intelligent AI systems, autonomous AI agents, and AI-powered solutions that solve real-world problems. I enjoy combining education, artificial intelligence, and modern technology to create practical learning experiences and impactful projects.
 
-<!-- - 🎯 For more information about ***N8N in Agentic Ai*** and updates Join **[Whatsapp Channel](https://whatsapp.com/channel/0029Vb6ZMNn9WtC60YWzyh15).**        -->
+- 👩‍💻 AI Engineer
+- 🤖 AI Agent Developer
+- 🧠 Agentic AI Engineer
+- ✍️ Prompt Engineer
+- 🧩 Context Engineer
+- ⚙️ Builder of Autonomous AI Employees (24/7 AI Workforce)
+- 🐍 Python Developer
+- 🎓 Educator
+- 🏫 Founder & Principal — Creative Coder Pakistan
+- 🔓 Cyber Security & Digital Forensics Learner
+- 🌍 Open Source Contributor
 
  ---
 
