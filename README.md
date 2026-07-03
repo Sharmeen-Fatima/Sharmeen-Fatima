@@ -61,10 +61,10 @@ I build intelligent AI systems, autonomous AI agents, and AI-powered solutions t
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sharmeen-fatima&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharmeen-fatima&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sharmeen-fatima&theme=tokyonight&hide_border=true"/>
