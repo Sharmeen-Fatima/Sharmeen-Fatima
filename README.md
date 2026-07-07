@@ -53,32 +53,16 @@ I build intelligent AI systems, autonomous AI agents, and AI-powered solutions t
 
 ### 📱 Connect With Me
 
-| Project | Description | Link |
-|--------|-------------|------|
-**Subcribe Me On -->** [![Youtube](https://img.shields.io/badge/Youtube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@creativecoderpakistan)
-
-**Connect With Me On -->** [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharmeen-fatima-b1268827a)
-
-**Follow Me On -->** [![Facebook](https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100093096264475)
-
-**Follow Me On -->** [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/creative_coder_official/)
-
-**Follow Me On -->** [![GitHub](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sharmeen-Fatima/)
-
-**Follow Me On My Whatsapp Channel -->** [![Whatsapp Channel](https://img.shields.io/badge/Whatsapp_Channel-green?style=for-the-badge&logo=Whatsappchannel&logoColor=white)](https://www.whatsapp.com/channel/0029VbAqY7w002TIRJYUHG3X)
-
----
-
 ## 📱 Connect With Me
 
 | Platform | Link |
 |----------|------|
-| YouTube | <a href="https://youtube.com/@yourchannel"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a> |
-| LinkedIn | <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> |
-| Facebook | <a href="https://facebook.com/yourprofile"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a> |
-| Instagram | <a href="https://instagram.com/yourprofile"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> |
-| GitHub | <a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a> |
-| WhatsApp | <a href="https://whatsapp.com/channel/yourchannel"><img src="https://img.shields.io/badge/WhatsApp_Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a> |
+| YouTube | <a href="https://www.youtube.com/@creativecoderpakistan"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a> |
+| LinkedIn | <a href="https://www.linkedin.com/in/sharmeen-fatima-b1268827a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> |
+| Facebook | <a href="https://www.facebook.com/profile.php?id=100093096264475"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a> |
+| Instagram | <a href="https://www.instagram.com/creative_coder_official/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> |
+| GitHub | <a href="https://github.com/Sharmeen-Fatima/"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a> |
+| WhatsApp | <a href="https://www.whatsapp.com/channel/0029VbAqY7w002TIRJYUHG3X"><img src="https://img.shields.io/badge/WhatsApp_Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a> |
 
 ---
 
