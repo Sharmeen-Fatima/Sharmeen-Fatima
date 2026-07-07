@@ -51,8 +51,6 @@ I build intelligent AI systems, autonomous AI agents, and AI-powered solutions t
 
 ---
 
-### 📱 Connect With Me
-
 ## 📱 Connect With Me
 
 | Platform | Link |
