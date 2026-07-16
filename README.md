@@ -66,36 +66,16 @@ I build intelligent AI systems, autonomous AI agents, and AI-powered solutions t
 
 
 ## 📊 GitHub Stats
-<!-- <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sharmeen-fatima&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharmeen-fatima&layout=compact&theme=tokyonight&hide_border=true"/>
-</p> -->
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sharmeen-fatima&theme=tokyonight&hide_border=true"/>
 </p>
 
-
-<!-- ### 📊 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sharmeen-Fatima&layout=compact&theme=dark)
--->
-
 ---
 ## 📈 GitHub Contribution Graph
-<!--
-![Snake animation](https://raw.githubusercontent.com/Sharmeen-Fatima/Sharmeen-Fatima/output/github-contribution-grid-snake.svg)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Sharmeen-Fatima/Sharmeen-Fatima/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
--->
-<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sharmeen-Fatima&show_icons=true&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com?user=Sharmeen-Fatima&theme=radical&hide_border=true) -->
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sharmeen-Fatima&theme=react-dark)
 
-<!-- ![Trophy](https://github-profile-trophy.vercel.app/?username=Sharmeen-Fatima&theme=radical&no-frame=true&margin-w=10)](https://github.com/Sharmeen-Fatima) -->
- 
  5. ### 💻 Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
