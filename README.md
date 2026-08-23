@@ -9,9 +9,6 @@
 <p align="center">AI Native </p>
 <p align="center">I'm Exploring Ai-Driven-Development </p>
 <p align="center">Inshallah in Future "Artificial Intelligence & Robotics Scientists"</p>
-<p align="center"> 
-  ![Sharmeen-Fatima-Portfolio](https://sharmeen-fatima-portfolio.vercel.app/)
-</p>
 
 ---
 ### 🚀 About Me
