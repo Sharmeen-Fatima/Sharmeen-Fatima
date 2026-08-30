@@ -65,9 +65,7 @@ I build intelligent AI systems, autonomous AI agents, and AI-powered solutions t
 | WhatsApp | <a href="https://www.whatsapp.com/channel/0029VbAqY7w002TIRJYUHG3X"><img src="https://img.shields.io/badge/WhatsApp_Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a> |
 
 ---
-## 📈 GitHub Contribution Graph
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sharmeen-Fatima&theme=react-dark)
 
  5. ### 💻 Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
