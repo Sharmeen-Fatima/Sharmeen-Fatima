@@ -49,7 +49,7 @@ I build intelligent AI systems, autonomous AI agents, and AI-powered solutions t
 | **Evolution_Of_Todo_App** |Full-stack web application for multi-user task management built with Next.js and FastAPI. | [Todo_App](https://frontend-rosy-chi-18.vercel.app/) |
 | **Digital FTE** | A local-first, autonomous Personal AI Employee system that monitors Gmail, LinkedIn, WhatsApp, manages Odoo ERP, posts on Facebook, Instagram & Twitter, generates CEO weekly audit reports — all with Human-in-the-Loop approval for every critical action. | [Digital FTE](https://github.com/Sharmeen-Fatima/Personal_AI_Employee_Hackathon_0) |
 | **Fatima_Ai_Assistant** | OWN Ai Assistant | [Fatima_Ai_Assistant](https://github.com/Sharmeen-Fatima/Fatima_Ai_Assistant.git) | 
-| **Dream-House** | Complete responsive website built with HTML & CSS | [Dream_House](https://github.com/Sharmeen-Fatima/Dream-House) |
+| **Dream-House** | For Cyber Security Students challenging website hidden 08 CTF challenge complete website complete responsive website DREAM HOUSE | [Dream_House](https://dream-house-ctf.netlify.app/) |
 
 ---
 
@@ -63,15 +63,6 @@ I build intelligent AI systems, autonomous AI agents, and AI-powered solutions t
 | Instagram | <a href="https://www.instagram.com/creative_coder_official/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> |
 | GitHub | <a href="https://github.com/Sharmeen-Fatima/"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a> |
 | WhatsApp | <a href="https://www.whatsapp.com/channel/0029VbAqY7w002TIRJYUHG3X"><img src="https://img.shields.io/badge/WhatsApp_Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a> |
-
----
-
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sharmeen-fatima&theme=tokyonight&hide_border=true"/>
-</p>
 
 ---
 ## 📈 GitHub Contribution Graph
