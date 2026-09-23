@@ -84,18 +84,6 @@ I build intelligent AI agents, autonomous AI employees, AI-powered applications,
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Sharmeen-Fatima&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sharmeen-Fatima&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
@@ -108,6 +96,9 @@ I build intelligent AI agents, autonomous AI employees, AI-powered applications,
 [![WhatsApp](https://img.shields.io/badge/WhatsApp_Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://www.whatsapp.com/channel/0029VbAqY7w002TIRJYUHG3X)
 
 </div>
+
+---
+### ***“Learning never stops — stay curious, stay creative!”***  
 
 <!-- <p align="center">
   <img src="Github.png" width="90%" height="20%" style="border-radius:"50%;" />
