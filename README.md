@@ -109,19 +109,6 @@ I build intelligent AI agents, autonomous AI employees, AI-powered applications,
 
 </div>
 
----
-
-🧠 **Author:** *[Sharmeen Fatima](https://github.com/sharmeen-fatima)*  
-📅 **Last Updated:** *23 September 2026*
-
-- **📫 Feel free to reach out:** ✉️ Creativecoderpakistan@gmail.com
-- ***✒ For more information about Docker and updates Join **[Whatsapp Channel](https://whatsapp.com/channel/0029VbAqY7w002TIRJYUHG3X).*****
-
-***“Learning never stops — stay curious, stay creative!”***
-
-***☺️STAY HERE, STAY CONNECTED✨***
-
-
 <!-- <p align="center">
   <img src="Github.png" width="90%" height="20%" style="border-radius:"50%;" />
 </p>
