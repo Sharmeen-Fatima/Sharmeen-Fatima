@@ -6,9 +6,7 @@
 # Hi 👋, I'm Sharmeen Fatima
 
 
-<!-- The Repo comment for comment -->
-<!-- The Repo comment for comment -->
-<!-- The Repo comment for comment -->
+
 <!-- The Repo comment for comment -->
 <!-- The Repo comment for comment -->
 <!-- The Repo comment for comment -->
