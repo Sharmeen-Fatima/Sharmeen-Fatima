@@ -33,7 +33,11 @@
 [![CreativeDev](https://img.shields.io/badge/CreativeDev-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.creativedev.store/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharmeen-fatima-b1268827a)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Sharmeen-Fatima&color=8070C0)
+<p>
+  
+![Sharmeen Fatima's GitHub Profile Views](https://komarev.com/ghpvc/?username=Sharmeen-Fatima&color=%238070C0)
+</p>
+<!-- ![Profile Views](https://komarev.com/ghpvc/?username=Sharmeen-Fatima&color=8070C0) -->
 
 </div>
 
